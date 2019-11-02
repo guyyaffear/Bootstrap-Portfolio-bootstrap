@@ -1,0 +1,33 @@
+.cardimg {
+    max-width: 300px;
+    padding: 0;
+    background-position: center;
+    margin: 1px;
+}
+
+.cardimg img {
+    height: 100%;
+}
+
+.cardimg div h5 {
+    background-color: green;
+    margin: 0;
+    position: relative;
+    top: 70%;
+    text-align: center;
+}
+.footer{
+    background-color: gray;
+    border-top:5px solid  teal;
+   
+    display:block;
+    width:100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    margin-top:15px;
+    position: fixed;
+    bottom: 0
+}
+
